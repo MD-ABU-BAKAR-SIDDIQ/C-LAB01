@@ -1,0 +1,7 @@
+C:\Users\Arman\Desktop\class\oop2\CSLAB 01\LAB01-EX05\LAB01-EX05\bin\Debug\LAB01-EX05.exe.config
+C:\Users\Arman\Desktop\class\oop2\CSLAB 01\LAB01-EX05\LAB01-EX05\bin\Debug\LAB01-EX05.exe
+C:\Users\Arman\Desktop\class\oop2\CSLAB 01\LAB01-EX05\LAB01-EX05\bin\Debug\LAB01-EX05.pdb
+C:\Users\Arman\Desktop\class\oop2\CSLAB 01\LAB01-EX05\LAB01-EX05\obj\Debug\LAB01-EX05.csprojAssemblyReference.cache
+C:\Users\Arman\Desktop\class\oop2\CSLAB 01\LAB01-EX05\LAB01-EX05\obj\Debug\LAB01-EX05.csproj.CoreCompileInputs.cache
+C:\Users\Arman\Desktop\class\oop2\CSLAB 01\LAB01-EX05\LAB01-EX05\obj\Debug\LAB01-EX05.exe
+C:\Users\Arman\Desktop\class\oop2\CSLAB 01\LAB01-EX05\LAB01-EX05\obj\Debug\LAB01-EX05.pdb

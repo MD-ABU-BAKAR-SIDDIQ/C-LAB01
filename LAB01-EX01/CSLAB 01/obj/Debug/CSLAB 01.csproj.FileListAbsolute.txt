@@ -1,0 +1,7 @@
+C:\Users\Arman\Desktop\class\oop2\CSLAB 01\CSLAB 01\bin\Debug\CSLAB 01.exe.config
+C:\Users\Arman\Desktop\class\oop2\CSLAB 01\CSLAB 01\bin\Debug\CSLAB 01.exe
+C:\Users\Arman\Desktop\class\oop2\CSLAB 01\CSLAB 01\bin\Debug\CSLAB 01.pdb
+C:\Users\Arman\Desktop\class\oop2\CSLAB 01\CSLAB 01\obj\Debug\CSLAB 01.csprojAssemblyReference.cache
+C:\Users\Arman\Desktop\class\oop2\CSLAB 01\CSLAB 01\obj\Debug\CSLAB 01.csproj.CoreCompileInputs.cache
+C:\Users\Arman\Desktop\class\oop2\CSLAB 01\CSLAB 01\obj\Debug\CSLAB 01.exe
+C:\Users\Arman\Desktop\class\oop2\CSLAB 01\CSLAB 01\obj\Debug\CSLAB 01.pdb
